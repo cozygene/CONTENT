@@ -33,7 +33,9 @@ There are also additional arguments that one can change:
 
 	
 [1] Florian Prive, Hugues Aschard, et al. “Efficient analysis of large-scale genome-wide data with two R packages: bigstatsr and bigsnpr.” In:Bioinformatics34.16 (2018), pp. 2781–2787.
+
 [2] C B Peterson, M Bogomolov, et al. “TreeQTL: hierarchical error control for eQTL findings.” In:Bioinformatics 32.16 (2016), pp. 2556–2558.
+
 [3] Michael Wainberg, Nasa Sinnott-Armstrong, et al. “Opportunities and challenges for transcriptome-wide association studies”. In:Nature Genetics 51.4 (2019), pp. 592–599.
 
 
