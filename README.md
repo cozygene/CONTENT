@@ -32,6 +32,15 @@ There are also additional arguments that one can change:
  - --`scale_exp` Center and scale the gene expression
 
 	
+## Running an example
+Download the zip archive containing a sample of input for CONTENT. An example command for CONTENT looks as follows:
+```
+Rscript ~/CONTENT/CONTENT_cli.R -X ~/CONTENT/ENSG00000163331.6/genos
+-Y ~/CONTENT/ENSG00000163331.6/y/ -o ~/CONTENT/ENSG00000163331.6/ -s
+~/CONTENT/ENSG00000163331.6/snps.txt -t ~/CONTENT/TWAS_weights/ -n
+ENSG00000163331.6
+```
+	
 [1] Florian Prive, Hugues Aschard, et al. “Efficient analysis of large-scale genome-wide data with two R packages: bigstatsr and bigsnpr.” In:Bioinformatics34.16 (2018), pp. 2781–2787.
 
 [2] C B Peterson, M Bogomolov, et al. “TreeQTL: hierarchical error control for eQTL findings.” In:Bioinformatics 32.16 (2016), pp. 2556–2558.
