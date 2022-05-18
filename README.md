@@ -40,6 +40,8 @@ Rscript ~/CONTENT/CONTENT_cli.R -X ~/CONTENT/ENSG00000163331.6/genos
 ~/CONTENT/ENSG00000163331.6/snps.txt -t ~/CONTENT/TWAS_weights/ -n
 ENSG00000163331.6
 ```
+
+We tested CONTENT using R (3.6.0) and include analyses with the following software in our manuscript: GCTA (1.93.1), CONTENT (https://github.com/cozygene/CONTENT), UTMOST (https://github.com/yiminghu/CTIMP), bigstatsr (https://github.com/privefl/bigstatsr), FUSION-TWAS (http://gusevlab.org/projects/fusion/), TreeQTL (http://bioinformatics.org/treeqtl/).
 	
 [1] Florian Prive, Hugues Aschard, et al. “Efficient analysis of large-scale genome-wide data with two R packages: bigstatsr and bigsnpr.” In:Bioinformatics34.16 (2018), pp. 2781–2787.
 
